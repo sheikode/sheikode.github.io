@@ -143,15 +143,10 @@
     justify-content: center;
   }
 
-  .form--area {
-    
-      padding: 1rem 3rem;
-      flex-grow: 1.5;
-      text-align: center;
-  }
+  
 
   .form-group {
-    padding: 1rem 0;
+    padding: 1rem 1em;
   }
   
   .text-box {
