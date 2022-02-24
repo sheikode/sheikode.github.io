@@ -161,20 +161,18 @@
     width: 70%;
     color: black;
   }
+
+  .input-textarea {
+    width: 90%;
+    border-radius: 7px;
+    color: black;
+  }
   
   .checkbox-container {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 0 1em;
-  }
-  
-  
-  
-  .input-textarea {
-    width: 70%;
-    border-radius: 7px;
-    color: black;
   }
   
   .submit-button {
